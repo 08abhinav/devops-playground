@@ -313,3 +313,12 @@ At this point, you have successfully:
 - Associated an Elastic IP
 - Enabled HTTPS using Let's Encrypt
 - Validated SSL configuration
+
+## Note
+Destroy the aws infrastructure provisioned using Terraform
+
+```bash
+terraform destroy -auto-approve
+```
+
+Also manually release the Elastic Ip to save AWS cost.
