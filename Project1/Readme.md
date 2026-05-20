@@ -66,7 +66,7 @@ This file is used to manage variables used across the Terraform configuration.
 
 Go through the `awsInfra` directory and try to understand what each file is doing.
 
-If you want to learn about Terraform: [Click Here]((https://medium.com/@abhinavnegi101/provisioning-aws-infrastructure-using-terraform-beginner-friendly-guide-182262f6cac5))
+If you want to learn about Terraform: [Click Here](https://medium.com/@abhinavnegi101/provisioning-aws-infrastructure-using-terraform-beginner-friendly-guide-182262f6cac5)
 ---
 
 ### Run Terraform Commands
