@@ -29,13 +29,13 @@ locals{
     server2 = {
       instance_type = var.instance_type
       subnet_id     = module.network.subnet1_id
-      name          = "server1"
+      name          = "server2"
     }
 
     server3 = {
       instance_type = var.instance_type
       subnet_id     = module.network.subnet1_id
-      name          = "server1"
+      name          = "server3"
     }
   }
 }
