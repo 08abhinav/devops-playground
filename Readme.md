@@ -56,8 +56,7 @@ Each project will contain:
 - Setup documentation
 - Architecture diagrams
 - Deployment steps
-- Troubleshooting notes
-- Screenshots and outputs
+- Screenshots
 
 ---
 
