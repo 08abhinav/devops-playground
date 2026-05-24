@@ -30,25 +30,7 @@ The goal of this repository is to:
 
 ### Project 4: Setup WordPress Website Using LAMP Stack
 - Deploy a WordPress application using Linux, Apache, MySQL, and PHP.
-
-### Project 5: Setup Service Discovery Using Nginx & Consul
-- Configure service discovery and dynamic backend registration using Consul and Nginx.
-
-### Project 6: Create an API Based Application
-- Build and deploy an API-driven application with production-style deployment practices.
-
-### Project 7: Design an AWS VPC Based on Application Architecture
-- Design and configure a secure and scalable AWS VPC architecture.
-
-### Project 8: Deploy Scalable Java Application on AWS Cloud
-- Deploy and scale a Java-based application on AWS infrastructure.
-
-### Project 9: One-Way and Mutual SSL/TLS Implementation
-- Configure secure communication using SSL/TLS certificates and mutual authentication.
-
-### Project 10: Setup Client-to-Site VPN on AWS
-- Configure secure remote connectivity using AWS VPN services.
-
+- 
 ---
 
 ## Repository Structure
