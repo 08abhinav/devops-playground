@@ -25,7 +25,6 @@ Instead of provisioning infrastructure manually using the AWS Console, we will a
 ## Step 1: Buy a Domain
 
 Go to a domain registrar such as GoDaddy and purchase a domain name.
-
 This project will cover tasks **2, 3, 4, 5, 6, 7, 8, and 9** from the task list above.
 
 ---
@@ -63,7 +62,6 @@ This file contains the main infrastructure resources such as the EC2 instance.
 
 #### `variables.tf`
 This file is used to manage variables used across the Terraform configuration.
-
 Go through the `awsInfra` directory and try to understand what each file is doing.
 
 If you want to learn about Terraform: [Click Here](https://medium.com/@abhinavnegi101/provisioning-aws-infrastructure-using-terraform-beginner-friendly-guide-182262f6cac5)
