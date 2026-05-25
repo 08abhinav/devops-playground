@@ -90,7 +90,6 @@ server{
 ```
 
 Now after configuring the server1 do the same thing for server2 as done for server.
-
 Now link your virtual host so that it could server actual traffic.
 
 ```bash
@@ -128,7 +127,6 @@ Open both subdomains in your browser:
 - http://server2.example.com
 
 Both websites should load independently from their respective directories.
-
 You can also validate using curl:
 
 ```bash
@@ -139,7 +137,6 @@ curl http://server2.example.com
 ## Step 7: Configure SSL using Let's Encrypt
 
 To make your website accessible over HTTPS, install a free SSL certificate using Let's Encrypt.
-
 Install Certbot and the Nginx plugin:
 
 ```bash
@@ -185,7 +182,6 @@ Verify return code: 0 (ok)
 ```
 
 You can also validate your SSL configuration online using SSL Labs.
-
 If the certificate is valid, your website is now securely accessible over HTTPS.
 
 ---
