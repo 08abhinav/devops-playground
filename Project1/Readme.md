@@ -87,7 +87,6 @@ Once Terraform completes successfully, your AWS infrastructure will be provision
 ## Step 3: SSH into EC2 Instance
 
 After provisioning, Terraform will display the public IP of your EC2 instance.
-
 SSH into the instance using:
 
 ```bash
@@ -120,7 +119,6 @@ If everything is working correctly, Nginx should be running.
 ## Step 5: Copy HTML Files to EC2 using SCP
 
 Create a simple HTML page or download one from the internet.
-
 Now copy the file from your local machine to EC2:
 
 ```bash
@@ -152,7 +150,6 @@ You should see your website content.
 ## Step 7: Configure Elastic IP
 
 Go to the AWS Console.
-
 Navigate to:
 
 ```txt
@@ -160,7 +157,6 @@ EC2 → Elastic IPs
 ```
 
 Allocate a new Elastic IP and associate it with your `nginx-server` instance.
-
 Using an Elastic IP ensures your public IP remains static even after instance restarts.
 
 ---
@@ -168,7 +164,6 @@ Using an Elastic IP ensures your public IP remains static even after instance re
 ## Step 8: Configure DNS Record
 
 Go to your domain registrar dashboard.
-
 Create an **A Record** and point it to your Elastic IP.
 
 Example:
@@ -218,7 +213,6 @@ You should see your website.
 ### Note
 
 If your domain redirects to `/lander`, follow these steps:
-
 Open the Nginx default configuration file:
 
 ```bash
@@ -250,7 +244,6 @@ Now try accessing your domain again.
 ## Step 10: Configure SSL using Let's Encrypt
 
 To make your website accessible over HTTPS, install a free SSL certificate using Let's Encrypt.
-
 Install Certbot and the Nginx plugin:
 
 ```bash
@@ -296,7 +289,6 @@ Verify return code: 0 (ok)
 ```
 
 You can also validate your SSL configuration online using SSL Labs.
-
 If the certificate is valid, your website is now securely accessible over HTTPS.
 
 ---
