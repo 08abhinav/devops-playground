@@ -1,5 +1,4 @@
 # DevOps Playground
-
 A hands-on repository for building, experimenting, and documenting real-world DevOps projects and workflows.
 
 ## About
