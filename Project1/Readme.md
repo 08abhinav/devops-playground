@@ -17,7 +17,6 @@ This project aims to help you understand how to host a static website using Ngin
 11. Validate SSL using OpenSSL.
 
 These are the tasks we will perform to achieve our final goal.
-
 Instead of provisioning infrastructure manually using the AWS Console, we will automate the process using an Infrastructure as Code (IaC) tool called Terraform.
 
 ---
