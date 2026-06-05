@@ -1,5 +1,4 @@
 # Project 1: Setup Static Website using Nginx
-
 This project aims to help you understand how to host a static website using Nginx and configure DNS to make the website publicly accessible over the internet.
 
 ## Project Tasks
@@ -22,7 +21,6 @@ Instead of provisioning infrastructure manually using the AWS Console, we will a
 ---
 
 ## Step 1: Buy a Domain
-
 Go to a domain registrar such as GoDaddy and purchase a domain name.
 This project will cover tasks **2, 3, 4, 5, 6, 7, 8, and 9** from the task list above.
 
