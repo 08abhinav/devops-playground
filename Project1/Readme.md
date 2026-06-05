@@ -27,7 +27,6 @@ This project will cover tasks **2, 3, 4, 5, 6, 7, 8, and 9** from the task list 
 ---
 
 ## Step 2: Provision AWS Infrastructure using Terraform
-
 Create an `awsInfra` directory. Inside this directory, create the following files and folders:
 
 ```txt
@@ -79,7 +78,6 @@ Once Terraform completes successfully, your AWS infrastructure will be provision
 ---
 
 ## Step 3: SSH into EC2 Instance
-
 After provisioning, Terraform will display the public IP of your EC2 instance.
 SSH into the instance using:
 
