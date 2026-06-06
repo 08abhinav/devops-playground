@@ -46,7 +46,6 @@ sudo systemctl status nginx
 ```
 
 ### Step3: Create two website directories with two different website templates.
-
 Navigate to /var/www/html/ and create two directory as server1 and server2. I am using directory name as server1 and server2 is becuase my subdomains have same name so for sake of simplicity I am using these names.
 
 After creating the directory, create separate html files for both the directory.
@@ -133,7 +132,6 @@ curl http://server2.example.com
 ```
 
 ## Step 7: Configure SSL using Let's Encrypt
-
 To make your website accessible over HTTPS, install a free SSL certificate using Let's Encrypt.
 Install Certbot and the Nginx plugin:
 
