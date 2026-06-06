@@ -14,12 +14,10 @@
 9. Validate the subdomain websites' SSL using OpenSSL utility.
 
 ### Step1: Create two subdomains
-
 Go to your DNS registrar, navigate to your domain and create two subdomains.
 While creating the subdomains, you can also complete Step 5 by adding an A record that points both subdomains to your server's public IP address.
 
 Example:
-
 Type	Name	    Value
 A	   server1 	    YOUR_SERVER_IP
 A	   server2	    YOUR_SERVER_IP
