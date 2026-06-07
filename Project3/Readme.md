@@ -14,7 +14,6 @@ Two servers will host static websites, while the third server will distribute in
 8. Understand L7 load balancing.
 
 ### Step1: Deploy three servers
-
 To provision the infrastructure, I used the IaC (Infrastructure as Code) tool Terraform.  
 Using Terraform, I created three AWS EC2 instances.
 
@@ -77,7 +76,6 @@ Repeat the same process for `server2`.
 ---
 
 ## Method 2: Copy the File from Your Local Machine
-
 If you already have an `index.html` file on your local system, transfer it using SCP:
 
 ```bash
