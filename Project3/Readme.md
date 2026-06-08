@@ -124,7 +124,6 @@ sudo vim loadbalancer
 ---
 
 # Step 4: Configure Load Balancing Between Backend Servers
-
 Inside the `loadbalancer` file, add the following configuration:
 
 ```nginx
@@ -190,7 +189,6 @@ This maps your subdomain to the Nginx Load Balancer server.
 ---
 
 # Step 6: Verify Load Balancing
-
 Now access your configured domain/subdomain in the browser:
 
 ```text
