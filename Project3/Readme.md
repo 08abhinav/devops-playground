@@ -266,7 +266,6 @@ upstream backend {
 ---
 
 # Step 8: Understanding Layer 7 (L7) Load Balancing
-
 Nginx acts as a **Layer 7 Load Balancer** because it operates at the **Application Layer** of the OSI model.
 
 Unlike Layer 4 load balancing, which works only with IP addresses and ports, Layer 7 load balancing understands:
@@ -281,7 +280,6 @@ This allows intelligent traffic routing.
 ---
 
 ## Example Use Cases of L7 Load Balancing
-
 ### Route Traffic Based on URL Path
 
 ```nginx
