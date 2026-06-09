@@ -293,7 +293,6 @@ location /images {
 ---
 
 ### Route Traffic Based on Domain Name
-
 ```nginx
 server_name api.example.com;
 ```
@@ -301,7 +300,6 @@ server_name api.example.com;
 ---
 
 ### SSL Termination
-
 Nginx can handle HTTPS encryption and forward plain HTTP traffic internally to backend servers.
 
 Benefits:
