@@ -93,7 +93,6 @@ Repeat the same process for `server2`.
 ---
 
 # Step 3: Configure the Third Server as an Nginx Load Balancer
-
 Now SSH into `server3`, which will act as the Load Balancer.
 
 Navigate to the Nginx configuration directory:
@@ -173,7 +172,6 @@ sudo systemctl restart nginx
 ---
 
 # Step 5: Add the Load Balancer IP to the DNS A Record
-
 Now configure DNS for your Load Balancer.
 
 Go to your domain registrar or DNS provider and create a new A record.
