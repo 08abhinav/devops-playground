@@ -111,7 +111,6 @@ sudo systemctl restart nginx
 ```
 
 ### Step 5: Configure DNS A Records
-
 This step can be completed together with Step 1 while creating the subdomains.
 
 ### Step 6: Validate the Setup
@@ -162,7 +161,6 @@ You should now see your website over HTTPS.
 ---
 
 ## Step 8: Validate SSL Certificate
-
 To verify the SSL certificate, run:
 
 ```bash
