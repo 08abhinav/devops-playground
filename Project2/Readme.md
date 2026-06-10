@@ -2,7 +2,6 @@
 
 
 ## Project Tasks
-
 1. Create two subdomains
 2. Install and configure Nignx on a server
 3. Create two website directories with two different website templates.
@@ -71,7 +70,6 @@ sudo vim server1
 ```
 
 Configure the below server
-
 ```text
 server{
     listen 80;
