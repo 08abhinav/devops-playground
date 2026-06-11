@@ -1,6 +1,5 @@
 # Project 2: Setup Multiple Static Websites on a Single Server Using Nginx Virtual Hosts
 
-
 ## Project Tasks
 1. Create two subdomains
 2. Install and configure Nignx on a server
