@@ -113,7 +113,6 @@ sudo systemctl restart nginx
 This step can be completed together with Step 1 while creating the subdomains.
 
 ### Step 6: Validate the Setup
-
 Open both subdomains in your browser:
 
 - http://server1.example.com
