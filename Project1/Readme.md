@@ -89,7 +89,6 @@ You are now connected to your server.
 ---
 
 ## Step 4: Install Nginx
-
 Update packages and install Nginx:
 
 ```bash
