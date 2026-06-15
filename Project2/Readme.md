@@ -22,9 +22,7 @@ A	   server2	    YOUR_SERVER_IP
 
 After DNS propagation, both subdomains should resolve to your server.
 
-
 ### Step2: Install and configure Nignx on a server
-
 Using the same infrastructure which was used in [Project1](https://github.com/08abhinav/devops-playground/tree/master/Project1/awsInfra)
 
 1. Install Nginx
