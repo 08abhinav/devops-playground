@@ -102,7 +102,6 @@ test is successful
 ```
 
 Restart nginx service
-
 ```bash
 sudo systemctl restart nginx
 ```
@@ -134,7 +133,6 @@ sudo apt install certbot python3-certbot-nginx -y
 ```
 
 Now generate and configure the SSL certificate:
-
 ```bash
 sudo certbot --nginx
 ```
