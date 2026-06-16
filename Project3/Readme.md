@@ -29,7 +29,6 @@ terraform apply -auto-approve
 ```
 
 After the infrastructure is created, Terraform will display the public IP addresses of all three servers.
-
 Now connect to the servers using SSH:
 
 ```bash
@@ -43,7 +42,6 @@ sudo systemctl status nginx
 ```
 
 You should see the service in an active/running state because Nginx installation was automated using a User Data bash script during server provisioning.
-
 Repeat the same verification process for the other two servers.
 
 ---
