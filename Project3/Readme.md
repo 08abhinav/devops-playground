@@ -198,7 +198,6 @@ This confirms that Nginx is successfully distributing traffic between both backe
 
 ---
 # Step 7: Explore Different Nginx Load-Balancing Algorithms
-
 By default, Nginx uses the **Round Robin** algorithm.
 
 In Round Robin:
@@ -218,7 +217,6 @@ upstream backend {
 ---
 
 ## 1. Least Connections
-
 This method sends traffic to the server with the fewest active connections.
 
 Useful when:
@@ -239,7 +237,6 @@ upstream backend {
 ---
 
 ## 2. IP Hash
-
 This method routes requests based on the client IP address.
 
 Useful for:
