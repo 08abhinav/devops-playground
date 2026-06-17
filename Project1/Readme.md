@@ -263,7 +263,6 @@ You should now see your website over HTTPS.
 ---
 
 ## Step 11: Validate SSL Certificate
-
 To verify the SSL certificate, run:
 
 ```bash
@@ -282,7 +281,6 @@ If the certificate is valid, your website is now securely accessible over HTTPS.
 ---
 
 ## Final Outcome
-
 At this point, you have successfully:
 
 - Provisioned infrastructure using Terraform
