@@ -107,7 +107,6 @@ If everything is working correctly, Nginx should be running.
 ---
 
 ## Step 5: Copy HTML Files to EC2 using SCP
-
 Create a simple HTML page or download one from the internet.
 Now copy the file from your local machine to EC2:
 
@@ -120,7 +119,6 @@ This command copies your HTML file into the `/home/ubuntu` directory.
 ---
 
 ## Step 6: Move HTML File to Nginx Directory
-
 After logging into the EC2 instance, move the HTML file to Nginx's root directory:
 
 ```bash
