@@ -165,6 +165,7 @@ If everything is configured correctly, you should see output similar to:
 ```txt
 Verify return code: 0 (ok)
 ```
+
 You can also validate your SSL configuration online using SSL Labs.
 If the certificate is valid, your website is now securely accessible over HTTPS.
 
