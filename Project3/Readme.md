@@ -43,7 +43,6 @@ sudo systemctl status nginx
 
 You should see the service in an active/running state because Nginx installation was automated using a User Data bash script during server provisioning.
 Repeat the same verification process for the other two servers.
-
 ---
 
 ### Step2: Set up static websites on two servers using Nginx. Make a small change in the index.html file of one of the websites to differentiate between two servers.
