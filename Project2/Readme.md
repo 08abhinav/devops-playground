@@ -88,7 +88,6 @@ Now link your virtual host so that it could server actual traffic.
 sudo ln -s /etc/nginx/sites-available/server1 /etc/nginx/sites-enabled/server1
 sudo ln -s /etc/nginx/sites-available/server2 /etc/nginx/sites-enabled/server2
 ```
-
 After successfully linking your servers, test your configuration
 
 ```bash
