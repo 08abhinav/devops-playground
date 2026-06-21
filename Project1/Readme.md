@@ -298,5 +298,4 @@ Destroy the aws infrastructure provisioned using Terraform
 ```bash
 terraform destroy -auto-approve
 ```
-
 Also manually release the Elastic Ip to save AWS cost.
