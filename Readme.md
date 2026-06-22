@@ -32,7 +32,6 @@ The goal of this repository is to:
 ---
 
 ## Repository Structure
-
 ```bash
 devops-playground/
 │
