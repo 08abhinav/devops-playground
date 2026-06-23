@@ -205,7 +205,6 @@ In Round Robin:
 - Traffic distribution is time/order based
 
 Example:
-
 ```nginx
 upstream backend {
     server <server1-private-ip>;
