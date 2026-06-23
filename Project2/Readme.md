@@ -149,7 +149,6 @@ https://<your-domain>
 ```
 
 You should now see your website over HTTPS.
-
 ---
 
 ## Step 8: Validate SSL Certificate
@@ -176,5 +175,4 @@ Destroy the aws infrastructure provisioned using Terraform
 ```bash
 terraform destroy -auto-approve
 ```
-
 Also manually release the Elastic Ip to save AWS cost.
