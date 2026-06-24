@@ -136,7 +136,6 @@ You should see your website content.
 ---
 
 ## Step 7: Configure Elastic IP
-
 Go to the AWS Console.
 Navigate to:
 
