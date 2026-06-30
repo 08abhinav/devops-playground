@@ -53,7 +53,6 @@ Create two different `index.html` files or download static website templates fro
 Make a small visual/text change in one website so that traffic switching can be identified easily during load balancing.
 
 ## Method 1: Create the File Directly on the Server
-
 SSH into `server1` and navigate to the default Nginx web root directory:
 
 ```bash
@@ -169,6 +168,7 @@ sudo systemctl restart nginx
 ---
 
 # Step 5: Add the Load Balancer IP to the DNS A Record
+
 Now configure DNS for your Load Balancer.
 
 Go to your domain registrar or DNS provider and create a new A record.
