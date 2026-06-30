@@ -83,7 +83,6 @@ SSH into the instance using:
 ```bash
 ssh -i <your-keypair-file-location> ubuntu@<your-instance-public-ip>
 ```
-
 You are now connected to your server.
 
 ---
