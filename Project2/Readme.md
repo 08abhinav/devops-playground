@@ -26,14 +26,12 @@ After DNS propagation, both subdomains should resolve to your server.
 Using the same infrastructure which was used in [Project1](https://github.com/08abhinav/devops-playground/tree/master/Project1/awsInfra)
 
 1. Install Nginx
-
 ```bash
 sudo apt update -y
 sudo apt install nginx -y
 ```
 
 2. Enbale and start nginx and verify its status
-
 ```bash
 sudo systemctl enbale nginx
 sudo systemctl start nginx
