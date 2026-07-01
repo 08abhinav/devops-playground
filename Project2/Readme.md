@@ -157,7 +157,6 @@ openssl s_client -connect <your-domain>:443
 ```
 
 If everything is configured correctly, you should see output similar to:
-
 ```txt
 Verify return code: 0 (ok)
 ```
