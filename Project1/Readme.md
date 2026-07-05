@@ -40,6 +40,7 @@ awsInfra/
 ```
 
 ### Directory Structure Explanation
+
 #### `network/`
 This is a Terraform module that helps us follow IaC best practices and create reusable infrastructure components.
 
