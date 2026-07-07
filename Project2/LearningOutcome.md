@@ -188,7 +188,6 @@ sudo cat /var/log/nginx/error.log
 ```
 
 Common error patterns:
-
 - open() → file/path issue
 - bind() → port already in use
 - permission denied → access issue
