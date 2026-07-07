@@ -42,9 +42,11 @@ Nginx does not create a thread per request. Instead, it uses an event-driven mod
 When you visit a domain like `blog.example.com`, the following happens:
 
 ### Step 1: DNS Resolution
+
 The domain is translated into an IP address.
 
 ### Step 2: Request reaches Nginx
+
 Nginx receives the HTTP request from the browser.
 
 ### Step 3: Server Block Matching
@@ -61,6 +63,7 @@ So a request to `/` becomes:
 /var/www/server1/index.html
 
 ### Step 5: Response
+
 Nginx returns:
 - HTML
 - CSS
