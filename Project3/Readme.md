@@ -301,6 +301,7 @@ Benefits:
 ---
 
 ## Why L7 Load Balancing is Important
+
 Advantages:
 - Better traffic control
 - Session persistence support
@@ -313,6 +314,7 @@ Advantages:
 ---
 
 # Conclusion
+
 In this project, we:
 - Provisioned infrastructure using Terraform
 - Hosted static websites using Nginx
