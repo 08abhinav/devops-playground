@@ -4,6 +4,7 @@ In this project, we will deploy three AWS servers and configure Nginx as a Layer
 Two servers will host static websites, while the third server will distribute incoming traffic between them using Nginx load balancing.
 
 ## Project Tasks
+
 1. Deploy three servers
 2. Set up static websites on two servers using Nginx. Make a small change in the index.html file of one of the websites to differentiate between two servers.
 3. Set up Nginx on the third server. It will act as a load balancer.
@@ -14,6 +15,7 @@ Two servers will host static websites, while the third server will distribute in
 8. Understand L7 load balancing.
 
 ### Step1: Deploy three servers
+
 To provision the infrastructure, I used the IaC (Infrastructure as Code) tool Terraform.  
 Using Terraform, I created three AWS EC2 instances.
 
