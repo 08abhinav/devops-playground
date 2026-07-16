@@ -2,6 +2,7 @@
 A hands-on repository for building, experimenting, and documenting real-world DevOps projects and workflows.
 
 ## About
+
 This repository contains **10 practical DevOps projects** focused on learning and implementing real-world DevOps practices, infrastructure workflows, automation, deployment strategies, monitoring, scalability, and system reliability.
 
 All projects are built and tested using **AWS** as the primary cloud provider.
