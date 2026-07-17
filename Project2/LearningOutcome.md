@@ -7,6 +7,7 @@ In this project, Nginx stopped being just a server and started behaving like a s
 ---
 
 ## 1. Nginx Architecture
+
 Nginx is a web server that also works as a reverse proxy and load balancer.
 
 It mainly operates in three roles:
@@ -39,6 +40,7 @@ Nginx does not create a thread per request. Instead, it uses an event-driven mod
 ---
 
 ## 2. Request Lifecycle
+
 When you visit a domain like `blog.example.com`, the following happens:
 
 ### Step 1: DNS Resolution
