@@ -1,6 +1,7 @@
 # Project 2: Setup Multiple Static Websites on a Single Server Using Nginx Virtual Hosts
 
 ## Project Tasks
+
 1. Create two subdomains
 2. Install and configure Nignx on a server
 3. Create two website directories with two different website templates.
@@ -12,6 +13,7 @@
 9. Validate the subdomain websites' SSL using OpenSSL utility.
 
 ### Step1: Create two subdomains
+
 Go to your DNS registrar, navigate to your domain and create two subdomains.
 While creating the subdomains, you can also complete Step 5 by adding an A record that points both subdomains to your server's public IP address.
 
