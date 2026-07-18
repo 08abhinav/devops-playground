@@ -52,6 +52,7 @@ The domain is translated into an IP address.
 Nginx receives the HTTP request from the browser.
 
 ### Step 3: Server Block Matching
+
 Nginx checks the `server_name` inside configuration files:
 /etc/nginx/sites-available/<your-server>
 
@@ -76,6 +77,7 @@ Or forwards the request to a backend if configured as reverse proxy.
 ---
 
 ## 3. Nginx Configuration Flow (Actual Internal Flow)
+
 When Nginx starts, everything begins from:
 /etc/nginx/nginx.conf
 
@@ -155,6 +157,7 @@ server {
 - location → request routing rules
 
 ## 7. Directory Structure Mapping
+
 A clean mapping looks like:
 
 ```nginx
