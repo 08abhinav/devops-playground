@@ -106,9 +106,11 @@ sudo systemctl restart nginx
 ```
 
 ### Step 5: Configure DNS A Records
+
 This step can be completed together with Step 1 while creating the subdomains.
 
 ### Step 6: Validate the Setup
+
 Open both subdomains in your browser:
 
 - http://server1.example.com
@@ -123,6 +125,7 @@ curl http://server2.example.com
 ```
 
 ## Step 7: Configure SSL using Let's Encrypt
+
 To make your website accessible over HTTPS, install a free SSL certificate using Let's Encrypt.
 Install Certbot and the Nginx plugin:
 
