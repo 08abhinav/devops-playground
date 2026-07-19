@@ -1,7 +1,9 @@
 # Project 1: Setup Static Website using Nginx
+
 This project aims to help you understand how to host a static website using Nginx and configure DNS to make the website publicly accessible over the internet.
 
 ## Project Tasks
+
 1. Buy a domain name from a domain registrar.
 2. Spin up an Ubuntu server.
 3. SSH into the server and install Nginx.
