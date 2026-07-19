@@ -22,12 +22,14 @@ Instead of provisioning infrastructure manually using the AWS Console, we will a
 ---
 
 ## Step 1: Buy a Domain
+
 Go to a domain registrar such as GoDaddy and purchase a domain name.
 This project will cover tasks **2, 3, 4, 5, 6, 7, 8, and 9** from the task list above.
 
 ---
 
 ## Step 2: Provision AWS Infrastructure using Terraform
+
 Create an `awsInfra` directory. Inside this directory, create the following files and folders:
 
 ```txt
@@ -80,6 +82,7 @@ Once Terraform completes successfully, your AWS infrastructure will be provision
 ---
 
 ## Step 3: SSH into EC2 Instance
+
 After provisioning, Terraform will display the public IP of your EC2 instance.
 SSH into the instance using:
 
