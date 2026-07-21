@@ -50,7 +50,6 @@ Repeat the same verification process for the other two servers.
 ### Step2: Set up static websites on two servers using Nginx. Make a small change in the index.html file of one of the websites to differentiate between two servers.
 
 In this step, we will configure static websites on `server1` and `server2`.
-
 Create two different `index.html` files or download static website templates from the internet.  
 Make a small visual/text change in one website so that traffic switching can be identified easily during load balancing.
 
