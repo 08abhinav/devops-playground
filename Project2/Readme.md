@@ -43,10 +43,9 @@ sudo systemctl status nginx
 ```
 
 ### Step3: Create two website directories with two different website templates.
+
 Navigate to /var/www/html/ and create two directory as server1 and server2. I am using directory name as server1 and server2 is becuase my subdomains have same name so for sake of simplicity I am using these names.
-
 After creating the directory, create separate html files for both the directory.
-
 Heirarchy inside /var/www/ should look like:
 
 ```text
