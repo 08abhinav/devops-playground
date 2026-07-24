@@ -47,6 +47,7 @@ devops-playground/
 ├── project-08-scalable-java-app/
 ├── project-09-ssl-tls-implementation/
 └── project-10-client-site-vpn/
+
 ```
 Each project will contain:
 - Source code
