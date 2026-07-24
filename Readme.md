@@ -48,7 +48,6 @@ devops-playground/
 ├── project-09-ssl-tls-implementation/
 └── project-10-client-site-vpn/
 ```
-
 Each project will contain:
 - Source code
 - Infrastructure configuration
@@ -56,7 +55,6 @@ Each project will contain:
 - Architecture diagrams
 - Deployment steps
 - Screenshots
-
 ---
 
 ## Cloud Provider
