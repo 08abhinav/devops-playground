@@ -93,6 +93,7 @@ You are now connected to your server.
 ---
 
 ## Step 4: Install Nginx
+
 Update packages and install Nginx:
 
 ```bash
@@ -111,6 +112,7 @@ If everything is working correctly, Nginx should be running.
 ---
 
 ## Step 5: Copy HTML Files to EC2 using SCP
+
 Create a simple HTML page or download one from the internet.
 Now copy the file from your local machine to EC2:
 
