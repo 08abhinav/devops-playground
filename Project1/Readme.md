@@ -47,7 +47,6 @@ awsInfra/
 
 #### `network/`
 This is a Terraform module that helps us follow IaC best practices and create reusable infrastructure components.
-
 Inside this module:
 
 - `main.tf` → Contains networking resources such as VPC, subnets, route tables, security groups, etc.
