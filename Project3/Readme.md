@@ -54,6 +54,7 @@ Create two different `index.html` files or download static website templates fro
 Make a small visual/text change in one website so that traffic switching can be identified easily during load balancing.
 
 ## Method 1: Create the File Directly on the Server
+
 SSH into `server1` and navigate to the default Nginx web root directory:
 
 ```bash
@@ -73,6 +74,7 @@ Repeat the same process for `server2`.
 ---
 
 ## Method 2: Copy the File from Your Local Machine
+
 If you already have an `index.html` file on your local system, transfer it using SCP:
 
 ```bash
