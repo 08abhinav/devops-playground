@@ -200,6 +200,7 @@ This confirms that Nginx is successfully distributing traffic between both backe
 
 ---
 # Step 7: Explore Different Nginx Load-Balancing Algorithms
+
 By default, Nginx uses the **Round Robin** algorithm.
 
 In Round Robin:
@@ -258,6 +259,7 @@ upstream backend {
 ---
 
 # Step 8: Understanding Layer 7 (L7) Load Balancing
+
 Nginx acts as a **Layer 7 Load Balancer** because it operates at the **Application Layer** of the OSI model.
 
 Unlike Layer 4 load balancing, which works only with IP addresses and ports, Layer 7 load balancing understands:
