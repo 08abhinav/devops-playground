@@ -59,11 +59,13 @@ Each project will contain:
 ---
 
 ## Cloud Provider
+
 - AWS
 
 ---
 
 ## Goal
+
 The main objective of this repository is to gain hands-on experience by building and documenting practical DevOps projects instead of only following theoretical concepts.
 ---
 
