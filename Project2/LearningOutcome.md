@@ -59,6 +59,7 @@ Nginx checks the `server_name` inside configuration files:
 It matches the incoming Host header with the correct server block.
 
 ### Step 4: Root Resolution
+
 Nginx maps the request to a filesystem path:
 root /var/www/server1;
 
