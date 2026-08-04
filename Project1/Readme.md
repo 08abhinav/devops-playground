@@ -269,6 +269,7 @@ You should now see your website over HTTPS.
 ---
 
 ## Step 11: Validate SSL Certificate
+
 To verify the SSL certificate, run:
 
 ```bash
