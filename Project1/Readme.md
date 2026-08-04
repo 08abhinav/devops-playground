@@ -125,6 +125,7 @@ This command copies your HTML file into the `/home/ubuntu` directory.
 ---
 
 ## Step 6: Move HTML File to Nginx Directory
+
 After logging into the EC2 instance, move the HTML file to Nginx's root directory:
 
 ```bash
