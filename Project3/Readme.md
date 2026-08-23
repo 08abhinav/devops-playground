@@ -68,7 +68,6 @@ sudo vim index.html
 ```
 
 Paste your HTML code and save the file.
-
 Repeat the same process for `server2`.
 
 ---
