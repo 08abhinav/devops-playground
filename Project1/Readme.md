@@ -67,6 +67,7 @@ If you want to learn about Terraform: [Click Here](https://medium.com/@abhinavne
 ---
 
 ### Run Terraform Commands
+
 After writing the Terraform configuration, run the following commands:
 
 ```bash
