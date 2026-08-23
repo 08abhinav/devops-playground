@@ -30,6 +30,7 @@ The goal of this repository is to:
 ### Project 4: Setup WordPress Website Using LAMP Stack
 - Deploy a WordPress application using Linux, Apache, MySQL, and PHP.
 - 
+
 ---
 
 ## Repository Structure
