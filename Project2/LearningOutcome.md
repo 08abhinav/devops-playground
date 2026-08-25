@@ -182,7 +182,6 @@ sudo nginx -t
 ```
 
 This is the most important debugging command. It catches:
-
 - syntax errors
 - missing files
 - broken symlinks
