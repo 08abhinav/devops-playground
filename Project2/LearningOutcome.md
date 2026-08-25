@@ -9,7 +9,6 @@ In this project, Nginx stopped being just a server and started behaving like a s
 ## 1. Nginx Architecture
 
 Nginx is a web server that also works as a reverse proxy and load balancer.
-
 It mainly operates in three roles:
 - Web Server: serves static files (HTML, CSS, JS)
 - Reverse Proxy: forwards requests to backend services
