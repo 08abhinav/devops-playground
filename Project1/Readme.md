@@ -290,6 +290,7 @@ If the certificate is valid, your website is now securely accessible over HTTPS.
 ---
 
 ## Final Outcome
+
 At this point, you have successfully:
 
 - Provisioned infrastructure using Terraform
