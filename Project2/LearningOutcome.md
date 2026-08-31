@@ -187,6 +187,7 @@ This is the most important debugging command. It catches:
 - broken symlinks
 
 3. Check logs
+   
 ```bash
 sudo cat /var/log/nginx/error.log
 ```
