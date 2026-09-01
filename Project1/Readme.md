@@ -185,7 +185,6 @@ TTL: 300
 ## Step 9: Validate DNS
 
 Run:
-
 ```bash
 dig <your-domain> +short
 ```
