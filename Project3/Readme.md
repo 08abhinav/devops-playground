@@ -29,7 +29,6 @@ terraform validate
 terraform plan
 terraform apply -auto-approve
 ```
-
 After the infrastructure is created, Terraform will display the public IP addresses of all three servers.
 Now connect to the servers using SSH:
 
