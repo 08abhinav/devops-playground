@@ -1,7 +1,6 @@
 # Project 2: Learning Outcomes
 
 While working on this project, the steps looked simple on the surface, but the real learning came from debugging and understanding how Nginx actually behaves under the hood. I had worked with Nginx before this, but mostly in a basic or monolithic setup. In those cases, I never really dealt with proper architecture breakdown, virtual hosts, or real production-style debugging.
-
 In this project, Nginx stopped being just a server and started behaving like a structured system with clear internal layers.
 
 ---
