@@ -49,6 +49,7 @@ devops-playground/
 └── project-10-client-site-vpn/
 
 ```
+
 Each project will contain:
 - Source code
 - Infrastructure configuration
